@@ -1,34 +1,34 @@
 {
   "todos": [
-    {
-      "priority": 0,
-      "id": 0,
-      "title": "Buy groceries",
-      "completed": false
-    },
-    {
-      "priority": 1,
-      "id": 1,
-      "title": "Read a book",
-      "completed": true
-    },
-    {
-      "priority": 2,
-      "id": 2,
-      "title": "Write blog post",
-      "completed": false
-    },
-    {
-      "priority": 3,
-      "id": 3,
-      "title": "Exercise",
-      "completed": true
-    },
-    {
-      "priority": 4,
-      "id": 4,
-      "title": "Clean the house",
-      "completed": false
-    }
+    "Buy groceries",
+    "Read a book",
+    "Write blog post",
+    "Exercise",
+    "Clean the house",
+    "Fix the bike",
+    "Call a friend",
+    "Plan a trip",
+    "Attend meeting",
+    "Cook dinner",
+    "Buy a gift",
+    "Water the plants",
+    "Do laundry",
+    "Prepare presentation",
+    "Walk the dog",
+    "Pay bills",
+    "Grocery shopping",
+    "Study for exam",
+    "Clean the car",
+    "Organize files",
+    "Write report",
+    "Attend workshop",
+    "Plan event",
+    "Update website",
+    "Review code",
+    "Send emails",
+    "Prepare dinner",
+    "Read articles",
+    "Watch movie",
+    "Write journal"
   ]
 }
